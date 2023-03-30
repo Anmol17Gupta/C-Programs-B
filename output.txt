@@ -1,0 +1,2 @@
+Letter count: 23
+Digit count: 0
